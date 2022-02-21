@@ -1,3 +1,5 @@
+//insertion sorting
+
 #include<bits/stdc++.h>
 using namespace std;
 void sort(int a[],int n)
@@ -23,7 +25,7 @@ int main()
     for(i=0;i<n;i++)
     {
         cin>>a[i];
-    }
+    }cout<<"aps2";
     sort(a,n);
     for(i=0;i<n;i++)
     {
