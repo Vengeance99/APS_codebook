@@ -40,4 +40,4 @@ void printBottomView(Node* root)
         pair < int, int > p = it->second;
         cout << p.first << " ";
     }
-}
+}    
